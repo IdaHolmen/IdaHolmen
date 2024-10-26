@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ida Holmen
-- 🌱 I’m currently learning frontend development
+- 💻 Frontend developer
+- 🌱 I’m currently studying Interaction Design
 - 📫 How to reach me idaaholmen@gmail.com
 
 <!---
