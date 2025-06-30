@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ida Holmen
 - 💻 Frontend developer
 - 🌱 I’m currently studying Interaction Design
-- 📫 How to reach me idaaholmen@gmail.com
+- 📫 How to reach me idaholmenskjervold@gmail.com
 
 <!---
 IdaHolmen/IdaHolmen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
